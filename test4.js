@@ -87,6 +87,27 @@
 
 // Question 6:Write a JavaScript function that takes a number as input and returns true if it is a prime number, otherwise false. Additionally, the function should also print all the factors of the number.
 
+// var num=22;
+
+// function prime(num){
+
+//     if(num===2 || num===3 || num===5 || num===7){
+
+//         console.log(`${num} is Prime no`)
+//     }
+
+//     if(num%2==0 || num%3==0 || num%5==0 || num%7==0){
+
+//         console.log(`${num} is not a Prime no`)
+//     }
+//     else(
+//         console.log(`${num} is Prime no`)
+//     )
+// }
+
+// prime(num);
+
+
 
 
 // Question 7:Create a JavaScript program that calculates the sum of all numbers from 1 to 1000 that are divisible by 3, 5, or 7.
